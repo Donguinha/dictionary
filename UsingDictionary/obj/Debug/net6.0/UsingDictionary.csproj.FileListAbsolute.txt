@@ -1,0 +1,15 @@
+C:\code\UsingDictionary\UsingDictionary\bin\Debug\net6.0\UsingDictionary.exe
+C:\code\UsingDictionary\UsingDictionary\bin\Debug\net6.0\UsingDictionary.deps.json
+C:\code\UsingDictionary\UsingDictionary\bin\Debug\net6.0\UsingDictionary.runtimeconfig.json
+C:\code\UsingDictionary\UsingDictionary\bin\Debug\net6.0\UsingDictionary.dll
+C:\code\UsingDictionary\UsingDictionary\bin\Debug\net6.0\UsingDictionary.pdb
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.csproj.AssemblyReference.cache
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.AssemblyInfoInputs.cache
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.AssemblyInfo.cs
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.csproj.CoreCompileInputs.cache
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.dll
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\refint\UsingDictionary.dll
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.pdb
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\UsingDictionary.genruntimeconfig.cache
+C:\code\UsingDictionary\UsingDictionary\obj\Debug\net6.0\ref\UsingDictionary.dll
